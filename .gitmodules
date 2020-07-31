@@ -10,3 +10,6 @@
 [submodule "java-practice"]
 	path = java-practice
 	url = https://github.com/girishlalwani2010/java-practice.git
+[submodule "zookeeper-demo"]
+	path = zookeeper-demo
+	url = https://github.com/bkatwal/zookeeper-demo.git
