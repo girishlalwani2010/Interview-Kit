@@ -1,3 +1,12 @@
 [submodule "DataStructure-And-Algorithms"]
 	path = DataStructure-And-Algorithms
 	url = https://github.com/girishlalwani2010/DataStructure-And-Algorithms.git
+[submodule "design"]
+	path = design
+	url = https://github.com/girishlalwani2010/design.git
+[submodule "books-code"]
+	path = books-code
+	url = https://github.com/girishlalwani2010/books-code.git
+[submodule "java-practice"]
+	path = java-practice
+	url = https://github.com/girishlalwani2010/java-practice.git
