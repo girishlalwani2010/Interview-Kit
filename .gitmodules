@@ -1,5 +1,5 @@
-[submodule "DataStructure-And-Algorithms"]
-	path = DataStructure-And-Algorithms
+[submodule "DataStructureAlgorithms"]
+	path = DataStructureAlgorithms
 	url = https://github.com/girishlalwani2010/DataStructure-And-Algorithms.git
 [submodule "design"]
 	path = design
