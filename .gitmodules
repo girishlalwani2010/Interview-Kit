@@ -13,9 +13,6 @@
 [submodule "zookeeper-demo"]
 	path = zookeeper-demo
 	url = https://github.com/bkatwal/zookeeper-demo.git
-[submodule "cassandra"]
-	path = cassandra
-	url = https://github.com/apache/cassandra.git
 [submodule "bucket4j"]
 	path = bucket4j
 	url = https://github.com/vladimir-bukhtoyarov/bucket4j.git
